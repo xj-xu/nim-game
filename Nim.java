@@ -1,8 +1,4 @@
-// Name: Xiaojia Xu
-// VUnetID: xuxj
-// Email: xiaojia.j.xu@vanderbilt.edu
-// Class: CS 1101 - Vanderbilt University
-// Honor statement: I have neither given nor received unauthorized help on this assignment.
+// Author: XJ Xu
 // Date: Nov 17/2016
 
 // Description: This program allows the user to play a game of Nim. A file with indicated
